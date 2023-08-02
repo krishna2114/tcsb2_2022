@@ -8,6 +8,7 @@ public class AddTwoNumbers {
 		int number2=20;
 		int result=number1+number2;
 		System.out.println("sum of two numbers " +result);
+		System.out.println("hello");
 	}
 
 }
